@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmyShafer
+- 👋 Hi, I’m @AmyShafer and I am open to hire!
 - 👀 I’m interested in engaging and memorable web design. <a href=https://amyshafer.github.io/Amy-U-Shafer-Portfolio target="_blank_">Here</a> is an example.
 - 🌱 I’m currently spending time with SQL.
 - 💞️ I am now collaborating on resturant database project.
